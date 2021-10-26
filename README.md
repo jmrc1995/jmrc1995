@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jmrc1995/jmrc1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Jomar Cardoza and I am a software developer, with a focus on front-end development.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on 
+#### BASE1(React APP)
+An application that goes through random affirmation statements, and presents it to the user upon a touch or click.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+
+#### React , JavaScript , CSS , HTML , Node.js
+
+### 📫 How to reach me:
+- jomar.cardoza95@gmail.com
+- https://www.linkedin.com/in/jomar-cardoza-7b3928163/
+
+### ⚡ Fun fact: 
+I am an audio engineer for artists in my community.
