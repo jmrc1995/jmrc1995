@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Name is Jomar Cardoza and I am a software developer, with a focus on front-end development.
+My Name is Jomar Cardoza I am a software developer, with a focus on front-end development.
 
 ### 🔭 I’m currently working on 
 #### BASE1(React APP)
