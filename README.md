@@ -10,5 +10,4 @@ YankeeScope is a full-stack web application that tracks, analyzes, and visualize
 - jomar.cardoza95@gmail.com
 - https://www.linkedin.com/in/jomar-cardoza-7b3928163/
 
-### ⚡ Hobbies: 
-NYY⚾MUSIC🎵DESIGN🌵.
+####NYY⚾MUSIC🎵DESIGN🌵.
