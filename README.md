@@ -3,8 +3,8 @@
 My Name is Jomar Cardoza I am a software engineer.
 
 ### 🔭 I’m currently working on 
-#### Microsoft Azure Fundamentals
-Preparing for exam AZ-900: Microsoft Azure Fundamentals.
+#### yankeescope
+YankeeScope is a full-stack web application that tracks, analyzes, and visualizes performance data for New York Yankees players and games — built from scratch using modern web technologies.
 
 #### React, JavaScript, CSS, HTML, Node.js, Azure, Express.js
 
