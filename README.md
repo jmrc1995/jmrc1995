@@ -1,13 +1,17 @@
-# Hi there 👋
+# Hey there 👋  
+I'm Jomar!
 
-My Name is Jomar!
+🎯 Right now I'm building **YankeeScope** — a full-stack app that tracks and breaks down New York Yankees player stats and game data. Think of it like a custom dashboard for die-hard Yankees fans (like me) ⚾.
 
-### 🔭 I’m currently working on 
-#### Yankeescope
-YankeeScope is a full-stack web application that tracks, analyzes, and visualizes performance data for New York Yankees players and games — built from scratch using modern web technologies.
+This project is 100% built from scratch using React, Node, TypeScript, and PostgreSQL — because why not make something fun *and* technical?
 
-### 📫 How to reach me:
-- jomar.cardoza95@gmail.com
-- https://www.linkedin.com/in/jomar-cardoza-7b3928163/
+---
 
-#### GOYANKS!⚾AUDIOENGINEER🎵DESIGNER🌵PROGRAMMER🔨
+📬 **Get in touch:**  
+jomar.cardoza95@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jomar-cardoza-7b3928163/)
+
+---
+
+GO YANKS ⚾  
+🎧 Audio Engineer | 🎨 Designer | 👨‍💻 Programmer | 🌵 Still figuring it all out
